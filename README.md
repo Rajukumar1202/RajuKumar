@@ -1,3 +1,11 @@
+<div align="center">
+  <img src="https://github.com/Rajukumar1202/RajuKumar/blob/main/github-banner.png?raw=true" width="100%" alt="Raju Kumar - Aspiring AI Engineer" />
+</div>
+
+---
+
+
+
 <!-- Profile banner --><div align="center">👋 Hey, I'm Raju Kumar
 
 🚀 Aspiring AI Engineer | B.Tech CSE (AI/ML)
