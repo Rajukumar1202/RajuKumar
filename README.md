@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/Rajukumar1202/RajuKumar/blob/main/github-banner.png?raw=true" width="100%" alt="Raju Kumar - Aspiring AI Engineer" />
 </div>
-
+ 
 ---
 
 
@@ -78,6 +78,20 @@
 - [ ] Build and document real-world projects
 
 ---
+
+<h2 align="center">🐍 My GitHub Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Rajukumar1202/RajuKumar/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Rajukumar1202/RajuKumar/output/github-snake.svg" />
+    <img alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/Rajukumar1202/RajuKumar/output/github-snake.svg" />
+  </picture>
+</p>
+
 
 🤝 Connect With Me
 
