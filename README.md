@@ -93,10 +93,16 @@
   </tr>
 </table>
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
-<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=Rajukumar1202&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" /><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajukumar1202&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" /><img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajukumar1202&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" /></div>---
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rajukumar1202&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajukumar1202&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</div>
 
+<div align="center">
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajukumar1202&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</div>
 🎯 Current Learning Goals
 
 - [x] Python fundamentals
