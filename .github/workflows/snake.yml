@@ -22,9 +22,11 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Rajukumar1202
+          
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=%2300D9FF&color_dots=%230D1117%2C%230B2E4F%2C%230075B8%2C%2300A6FF%2C%2300D9FF
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=%2300D9FF&color_dots=%230D1117%2C%230B2E4F%2C%230075B8%2C%2300A6FF%2C%2300D9FF
+
 
       - name: Publish generated files
         uses: crazy-max/ghaction-github-pages@v3.1.0
