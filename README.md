@@ -128,16 +128,23 @@
 </p>
 
 
-🤝 Connect With Me
+## 🤝 Connect With Me
 
-<div align="center"><a href="https://github.com/Rajukumar1202">
-  <img src="https://img.shields.io/badge/GitHub-Raju%20Kumar-181717?style=for-the-badge&logo=github" alt="GitHub" />
-</a><a href="https://www.linkedin.com/in/raju-kumar-3a1384395">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-</a></div>---
+<p align="center">
+  <a href="https://github.com/Rajukumar1202">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/raju-kumar-3a1384395">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/mr._.raju12/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
-<div align="center">💡 Learn. Build. Improve. Repeat.
-
+<p align="center">
+  💬 Open to connecting with developers, collaborating on projects, and participating in hackathons.
+</p>
 Thanks for visiting my profile! Let's learn and build something meaningful. 🚀
 
 </div>
