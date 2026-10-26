@@ -33,10 +33,34 @@
 - Creating projects that solve real-world problems
 ---
 
-🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
-<div align="center"><img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,git,github,vscode,androidstudio&theme=dark" alt="Technology icons" /></div>Currently focusing on: Python · DSA · Git & GitHub · AI/ML foundations
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+</p>
 
+### 🌐 Web Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</p>
+
+### 🤖 Currently Learning
+<p>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-Learning-8A2BE2?style=for-the-badge" alt="Artificial Intelligence"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Learning-2E8B57?style=for-the-badge" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Practice-orange?style=for-the-badge" alt="DSA"/>
+</p>
 ---
 
 ## ## 🚀 Featured Projects
