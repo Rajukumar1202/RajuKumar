@@ -16,15 +16,21 @@
   <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-success?style=for-the-badge" alt="Status" />
 </p></div>---
 
-🧑‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 B.Tech CSE (AI/ML) student at Jagannath University, Jaipur
-- 🤖 Aspiring AI Engineer
-- 🐍 Learning Python and Data Structures & Algorithms
-- 🛠️ Building practical projects and improving my development skills
-- 📚 Focused on consistent learning, problem-solving and open-source development
-- 🎯 Goal: Build a strong AI/ML portfolio by graduation in 2029
+- 🎓 B.Tech CSE student specializing in AI/ML
+- 🤖 Aspiring AI Engineer passionate about Artificial Intelligence and Machine Learning
+- 🐍 Building projects with Python and exploring Data Structures & Algorithms
+- 🌐 Developing my skills in software development and modern web technologies
+- 🚀 Interested in AI projects, hackathons, open-source contributions, and problem-solving
+- 📈 Learning consistently and building projects to strengthen my portfolio
 
+### 🎯 Current Focus
+
+- Strengthening Python and DSA fundamentals
+- Building practical AI/ML projects
+- Improving Git, GitHub, and software development skills
+- Creating projects that solve real-world problems
 ---
 
 🛠️ Tech Stack & Tools
