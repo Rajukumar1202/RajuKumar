@@ -33,36 +33,35 @@
 
 ---
 
-## 🚀 Featured Projects
+## ## 🚀 Featured Projects
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🎓 Student Record Manager</h3>
-      <p>Manage student records with a Python command-line application.</p>
-      <a href="https://github.com/Rajukumar1202/student-record-manager">
-        View Repository →
-      </a>
+      <p>A Python command-line application for managing student records.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      </p>
+      <a href="https://github.com/Rajukumar1202/student-record-manager">View Repository →</a>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🌐 Portfolio Website</h3>
-      <p>My personal developer portfolio built with TypeScript.</p>
-      <a href="https://github.com/Rajukumar1202/portfolio">
-        View Repository →
-      </a>
+      <p>A personal developer portfolio built with TypeScript.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+      </p>
+      <a href="https://github.com/Rajukumar1202/portfolio">View Repository →</a>
     </td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td colspan="2" valign="top">
       <h3>⚡ FLASH Android Reminder</h3>
-      <p>An Android reminder app project.</p>
-      <a href="https://github.com/Rajukumar1202/FLASH-Android-Reminder">
-        View Repository →
-      </a>
+      <p>An Android reminder app project focused on reminders and productivity.</p>
+      <a href="https://github.com/Rajukumar1202/FLASH-Android-Reminder">View Repository →</a>
     </td>
   </tr>
 </table>
----
 
 📊 GitHub Stats
 
