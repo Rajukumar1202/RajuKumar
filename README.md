@@ -16,22 +16,24 @@
   <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-success?style=for-the-badge" alt="Status" />
 </p></div>---
 
-## 👨‍💻 About Me
+## ## 👨‍💻 About Me
 
-- 🎓 B.Tech CSE student specializing in AI/ML
-- 🤖 Aspiring AI Engineer passionate about Artificial Intelligence and Machine Learning
-- 🐍 Building projects with Python and exploring Data Structures & Algorithms
-- 🌐 Developing my skills in software development and modern web technologies
-- 🚀 Interested in AI projects, hackathons, open-source contributions, and problem-solving
-- 📈 Learning consistently and building projects to strengthen my portfolio
+Hey! I'm Raju, a B.Tech Computer Science student specializing in AI/ML.
 
-### 🎯 Current Focus
+- 🤖 Aspiring AI Engineer passionate about Artificial Intelligence and Machine Learning.
+- 🐍 Learning Python and strengthening my programming fundamentals.
+- 🧠 Practicing Data Structures & Algorithms to improve problem-solving.
+- 🛠️ Building projects to turn concepts into practical skills.
+- 🚀 Interested in hackathons, open-source contributions, and real-world problem-solving.
 
-- Strengthening Python and DSA fundamentals
-- Building practical AI/ML projects
-- Improving Git, GitHub, and software development skills
-- Creating projects that solve real-world problems
----
+## 🎯 Current Focus
+
+- 📘 Strengthening Python and DSA fundamentals.
+- 🌱 Learning AI/ML concepts step by step.
+- 🔧 Improving Git, GitHub, and project documentation.
+- 💡 Building practical projects for my portfolio.
+
+**My goal:** Grow into an AI Engineer by learning consistently and building useful things.
 
 ## 🛠️ Tech Stack & Tools
 
