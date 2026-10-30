@@ -40,13 +40,14 @@ Hey! I'm Raju, a B.Tech Computer Science student specializing in AI/ML.
 
 
 <h1 align="center">⚡
+
 <h2 align="center">⚡ TECH STACK & TOOLS</h2>
 
 <p align="center">
   <img
-    src="assets/tech-stack-neon.svg"
+    src="https://raw.githubusercontent.com/Rajukumar1202/RajuKumar1202/main/tech-stack-neon.svg"
     width="100%"
-    alt="Raju Kumar Tech Stack and Tools - Neon 3D Showcase"
+    alt="Raju Kumar - Neon Tech Stack"
   />
 </p>
 
